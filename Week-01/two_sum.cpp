@@ -8,7 +8,7 @@ public:
             if(set_num.count(num_1)){
                 return {set_num[num_1], j};
             } 
-            set_num[nums[j]] = i;
+            set_num[nums[j]] = j;
         }
         return {};
     }
