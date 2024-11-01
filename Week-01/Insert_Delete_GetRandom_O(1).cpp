@@ -1,3 +1,4 @@
+//Insert Delet GetRandom 0(1)
 class RandomizedSet {
 public:
     vector<int> randomset;
