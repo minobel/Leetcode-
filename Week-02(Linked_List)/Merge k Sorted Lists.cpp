@@ -1,3 +1,5 @@
+//T.C. - O(Nlog(K))
+//S.C. - O(log(K))
 /**
  * Definition for singly-linked list.
  * struct ListNode {
