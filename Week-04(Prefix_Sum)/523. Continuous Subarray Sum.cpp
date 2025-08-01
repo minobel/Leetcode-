@@ -1,5 +1,6 @@
 //TC - O(N)
 //SC - O(N)
+//দুইটা prefix_sum এর remainder same হলে, তাদের মধ্যকার subarray divisible by k হবে।
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
